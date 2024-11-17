@@ -43,7 +43,7 @@ plt.imshow(image_rgb)
 plt.title("Original Image")
 plt.axis("off")
 ```
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/98e3319d-5c20-4e8b-952c-74cdbec9feac)
 
 
 # Use Opening operation:
@@ -54,7 +54,7 @@ plt.imshow(opening_image_rgb)
 plt.title("Opening Operation")
 plt.axis("off")
 ```
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c38a8bbb-9ef1-410f-878e-ddf02b217804)
 
 # Use Closing Operation
 ```
